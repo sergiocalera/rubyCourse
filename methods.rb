@@ -35,3 +35,4 @@ puts "La resta de #{a} y #{b} es: #{resta(a,b)}"
 puts "La multiplicacion de #{a} y #{b} es: #{multiplicacion(a,b)}"
 
 puts "La divicion de #{a} y #{b} es : #{divicion(a,b)}"
+
